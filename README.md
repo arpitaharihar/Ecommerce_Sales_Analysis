@@ -1,6 +1,6 @@
 # Ecommerce_Sales_Analysis
 
-An end-to-end E-Commerce Sales and Customer Analytics project built using MySQL and Microsoft Power BI.
+An end-to-end E-Commerce Sales  built using MySQL and Microsoft Power BI.
 
 The project analyzes sales performance, product performance, regional revenue, customer behavior, and customer segmentation through SQL analysis and an interactive Power BI dashboard.
 
